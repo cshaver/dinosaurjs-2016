@@ -56,3 +56,21 @@
 - interacting with items
 
 ## Rick's Big Day!
+
+## What now?
+- Game Jams!
+- Ludum Dare
+- tigsource
+- itch.io
+- sortingh.at - made by Zoe Quinn
+
+## Go Out and Make Something!
+- WebGL VR
+- Voxel stuff
+- experiment with p5 & threejs
+- forget about the constraints you adhere to every day
+
+- Have fun
+- Break the rules
+- games are art
+- go outh there and make some art
