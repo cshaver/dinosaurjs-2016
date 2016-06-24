@@ -1,30 +1,32 @@
 # Javascript as Play, *Rachel White*
 
-## What is a game?
+## [@ohoe](https://twitter.com/ohhoe)<br>[rachelisaweso.me](http://rachelisaweso.me/)<br>[imcool.online](http://imcool.online/)<br>[github.com/rachelnicole](https://github.com/rachelnicole/)<br>[🐈 Rick’s Big Day](https://github.com/rachelnicole/ricks-big-day)
+
+### What is a game?
 - something that entertains
 - something that delights
 - the user controls (mostly) what happens
-- usually something to learn or goal ot achieve
+- usually something to learn or goal to achieve
 - exists to entertain / useful
 
-## What is an app
+### What is an app
 - something that entertains
 - something that delights
-- the user controls mostly what happensu
-- usually something to learn or goal ot achieve
+- the user controls mostly what happens
+- usually something to learn or goal to achieve
 - exists to entertain / useful
 
-## Not all that different!
+### Not all that different!
 
-## Game Dev Benefits
+### Game Dev Benefits
 - no linters
 - no pull requests
 - no code reviews
 - NO RULEZ
 
-## It's about the user journey
+### It's about the user journey
 
-## Time to plan!
+### Time to plan!
 
 - User flow
 - Game mechanics
@@ -40,31 +42,31 @@
   - Phaser, pixi, p5, construct, crafty, twine
   - nots of browser based ones that use WebGL or Canvas elements
 
-## Phaser
+### Phaser
 - HTML5 and JS 2D game engine supports Web, Android, IOS
 
-## Spritesheets
+### Spritesheets
 - what you need for animation
 - as many frames as you want
 - left, right, up, down
 - physics can be applied to them
 
-## Colision Detection
+### Colision Detection
 - setting world/wall boundaries
 - know if hit by enemies
 - landing on platforms
 - interacting with items
 
-## Rick's Big Day!
+### Rick’s Big Day!
 
-## What now?
+### What now?
 - Game Jams!
 - Ludum Dare
 - tigsource
 - itch.io
 - sortingh.at - made by Zoe Quinn
 
-## Go Out and Make Something!
+### Go Out and Make Something!
 - WebGL VR
 - Voxel stuff
 - experiment with p5 & threejs
