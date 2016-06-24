@@ -12,6 +12,18 @@
 
 ### [Making it Better without making it over, *Rebecca Murphey*](making-it-better/NOTES.md)
 
+### [10 Feet and Rising, *Potch, Developer Advocate Mozilla*](ten-feet-and-rising/NOTES.md)
+
+### [Javascript-Powered Desktop](javascript-powered-desktop/NOTES.md)
+
+### [Server Farm to Table - How the Internet Works, **](farm-to-table/NOTES.md)
+
+### [Single Page Access, *@noopkat*](single-page-access/NOTES.md)
+
+### [Firebase - Makes IoT Prototyping  Fun, *Jen Tong  - Google Cloud Platform Developer Advocate*](firebase/NOTES.md)
+
+---
+
 #### Running demos locally:
 
 ```bash

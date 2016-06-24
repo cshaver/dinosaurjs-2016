@@ -19,7 +19,7 @@ It’s easy to feel like the only way to make things better is to start over.
 - This is a thing that you can do well and a thing that you can do right.
 - Git hooks, ant tasks, standardization around the frontend
 
-> It’s unrealistic to expect [...] to know frameworks that solve problems they’ve never experienced
+> It’s unrealistic for you to expect yourself to learn a framework that solves a problem you’ve never experienced.
 
 > Tessa Thornton,<br>[How to Learn Web Frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.hl37vkigy)
 
@@ -32,3 +32,7 @@ Framework or no, JS growth is unbounded in the absence of constraints.
 Education is a powerful enabler of improvement.
 
 Building for the web is better today.
+
+Teaching people buzzwords vs real problem solving skills.
+
+Explore the tools not a user, but "how would you make this thing", i.e. trying to make your own version of React, etc.
