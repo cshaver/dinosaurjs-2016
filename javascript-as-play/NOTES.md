@@ -1,6 +1,6 @@
 # Javascript as Play, *Rachel White*
 
-## [@ohoe](https://twitter.com/ohhoe)<br>[rachelisaweso.me](http://rachelisaweso.me/)<br>[imcool.online](http://imcool.online/)<br>[github.com/rachelnicole](https://github.com/rachelnicole/)<br>[🐈 Rick’s Big Day](https://github.com/rachelnicole/ricks-big-day)
+## [@ohoe](https://twitter.com/ohhoe)<br>[rachelisaweso.me](http://rachelisaweso.me/)<br>[imcool.online](http://imcool.online/)<br>[github / rachelnicole](https://github.com/rachelnicole/)<br>[🐈 Rick’s Big Day](https://github.com/rachelnicole/ricks-big-day)
 
 ### What is a game?
 - something that entertains

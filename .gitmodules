@@ -1,0 +1,6 @@
+[submodule "whatever-happened/asteroids"]
+	path = whatever-happened/asteroids
+	url = https://github.com/markmarkoh/asteroids.git
+[submodule "javascript-as-play/ricks-big-day"]
+	path = javascript-as-play/ricks-big-day
+	url = https://github.com/rachelnicole/ricks-big-day.git
