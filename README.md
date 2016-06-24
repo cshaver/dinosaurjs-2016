@@ -8,6 +8,10 @@
 
 ### [OhHeckYeah, *Justin Gitlin*](ohheckyeah/NOTES.md)
 
+### [Doing the Unstuck: How to make browsers compatible with Web JavaScript™, *Mike Taylor, Mozilla*](doing-the-unstuck/NOTES.md)
+
+### [Making it Better without making it over, *Rebecca Murphey*](making-it-better/NOTES.md)
+
 #### Running demos locally:
 
 ```bash
